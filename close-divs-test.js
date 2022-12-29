@@ -3,7 +3,7 @@
 	Questions / Doubts?
 	- The function must return a string
 	- Focus only in <div> tag, ignore others HTML tags
-	- Close every other <div> tag, no need to nest it
+	- Close every second <div> tag, no need to nest it
 
 	What is expected to return (examples):
 	* <div>Hello World<div>	=>	<div>Hello</div>
